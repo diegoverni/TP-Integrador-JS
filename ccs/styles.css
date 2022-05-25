@@ -1,0 +1,30 @@
+
+*{
+margin: 10px;
+}
+
+.formulario{
+    margin: 0 auto;
+    padding: 10px;
+    align-content: center;
+    border-radius: 25px;
+    border: 1px solid #666666;
+    width: 600px;
+}
+
+.card{
+    margin: 0 auto;
+    padding: 10px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    font-size: 18px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+@media all and (min-width: 960px) {
+}
